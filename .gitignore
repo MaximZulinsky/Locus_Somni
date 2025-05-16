@@ -1,0 +1,63 @@
+# User-specific files
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]evelopmentBuild/
+[Dd]ist/
+Build/
+Builds/
+Exported/
+
+# User-specific build folders
+Library/
+Temp/
+obj/
+Export/
+
+# Asset meta files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.userprefs
+
+# IDE and file system specific files
+.vs/
+.idea/
+
+# Crash reports
+crash.dmp
+
+# Unity-generated file and folder
+.assembly/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.tgz
+
+# Ігнорування специфічних файлів та папок у всіх проектах
+
+**/.utmp/
+**/.utmp/RelWithDebInfo/
+**/.utmp/RelWithDebInfo/*/arm64-v8a/.cmake/
+**/.utmp/RelWithDebInfo/*/arm64-v8a/.ninja_deps
+**/.utmp/RelWithDebInfo/*/arm64-v8a/CMakeFiles/
+**/.utmp/RelWithDebInfo/*/arm64-v8a/GameActivity/CMakeFiles/
+**/Assembly-CSharp-Editor.csproj
+**/Assembly-CSharp.csproj
+**/Assets/Editor/Vuforia/ImageTargetTextures/Lab1/labar_1_scaled.jpg
+**/Assets/StreamingAssets/Vuforia/Lab1.dat
+**/Assets/TutorialInfo/Icons/URP.png
+**/Textures/
+
